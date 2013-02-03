@@ -82,3 +82,5 @@
 /vendor/smokeping-2.6.8/etc/Makefile
 /vendor/smokeping-2.6.8/htdocs/Makefile
 /vendor/smokeping-2.6.8/lib/Makefile
+
+/vendor/smokeping-2.6.8/etc/config.dist
